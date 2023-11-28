@@ -49,3 +49,21 @@ C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Task_Employee_Departments_WebAP
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.pdb
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
 C:\Users\TGSUser070\Desktop\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\ref\Repository.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Repository.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Repository.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Domain.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\bin\Debug\net6.0\Domain.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.sourcelink.json
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.pdb
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\Cdrive User\ASP.NET CORE WEB API\Task_Employee_Departments_WebAPI\Repository\obj\Debug\net6.0\ref\Repository.dll

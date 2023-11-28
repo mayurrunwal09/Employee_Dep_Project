@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TGSUser070\\Desktop\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj": {}
+    "D:\\Cdrive User\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TGSUser070\\Desktop\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj": {
+    "D:\\Cdrive User\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TGSUser070\\Desktop\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Cdrive User\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\TGSUser070\\Desktop\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Cdrive User\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\TGSUser070\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TGSUser070\\Desktop\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\obj\\",
+        "outputPath": "D:\\Cdrive User\\ASP.NET CORE WEB API\\Task_Employee_Departments_WebAPI\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
